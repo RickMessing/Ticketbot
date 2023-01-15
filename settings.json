@@ -1,0 +1,18 @@
+{
+    "ticket": {
+        "magicLink": "https://www.ticketswap.nl/event/awakenings-new-years-291222/regular-tickets/d4ffc1d2-4cb6-4a13-8914-8f6af703d5fe/2474773",
+        "festivalName": "AWAKENINGS | EINDHOVEN 28.01.23 BY DAY",
+        "otherCategory": "",
+        "ticketName": "Normaal"
+    },
+    "notification": {
+        "sid": "",
+        "token": "",
+        "twilioPhone": "",
+        "phone": ""
+    },
+    "emailCredentials": {
+        "email": "Enter random email",
+        "appPassword": "Enter password"
+    }
+}
